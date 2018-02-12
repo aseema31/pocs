@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="operators suite" duration-ms="60" started-at="2018-02-12T18:23:49Z" finished-at="2018-02-12T18:23:49Z">
+    <groups>
+    </groups>
+    <test name="operation tests" duration-ms="60" started-at="2018-02-12T18:23:49Z" finished-at="2018-02-12T18:23:49Z">
+      <class name="test.java.com.unagis.container.test.AdditionTest">
+        <test-method status="PASS" signature="addTest003()[pri:0, instance:test.java.com.unagis.container.test.AdditionTest@75bd9247]" name="addTest003" duration-ms="19" started-at="2018-02-12T12:23:49Z" finished-at="2018-02-12T12:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest003 -->
+        <test-method status="PASS" signature="addTest01()[pri:0, instance:test.java.com.unagis.container.test.AdditionTest@75bd9247]" name="addTest01" duration-ms="2" started-at="2018-02-12T12:23:49Z" finished-at="2018-02-12T12:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest01 -->
+        <test-method status="PASS" signature="addTest02()[pri:0, instance:test.java.com.unagis.container.test.AdditionTest@75bd9247]" name="addTest02" duration-ms="0" started-at="2018-02-12T12:23:49Z" finished-at="2018-02-12T12:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest02 -->
+      </class> <!-- test.java.com.unagis.container.test.AdditionTest -->
+    </test> <!-- operation tests -->
+  </suite> <!-- operators suite -->
+</testng-results>
